@@ -1,0 +1,70 @@
+Feature,FeatureImportance
+Age,0.1563919296296395
+Occupation_missing,0.10375601852540899
+HeardAboutSaheli_gp,0.10222756286548906
+HasHealthConditionOrDisability_missing,0.10030078463562118
+Referral_EmploymentTraining,0.06673549310238108
+Site_omnia medical practice,0.057230842640282865
+ReferralReasonMissing,0.05710846189265596
+Site_calthorpe wellbeing hub,0.05586066748452611
+HeardAboutSaheli_infrequent_sklearn,0.04222038717575707
+HasHealthConditionOrDisability_no,0.03281887170342467
+Referral_HealthyEating,0.030347279484481526
+Language_Arabic,0.030211656289313677
+Ethnicity_asian - other asian background,0.025838032605397254
+Referral_LongTermCondition,0.025332162331353925
+HasHealthConditionOrDisability_prefer not to say,0.02400710000703028
+Language_Urdu,0.02161422898619259
+Referral_MentalHealth,0.020835458244673574
+Referral_SocialCircumstances,0.019440557891048052
+Language_English,0.01624014671753579
+Referral_Isolation,0.006002563775848559
+Language_OtherKnown,0.005479794011938087
+Site_alum rock community centre,1.150898358203519e-16
+CaringResponsibilities,0.0
+LivingAlone,0.0
+Language_OtherUnclassified,0.0
+Language_Kurdish,0.0
+Language_Pashto,0.0
+missingindicator_Age,0.0
+PreferredLanguageMissing,0.0
+Referral_ExerciseMobility,0.0
+Referral_WeightManagement,0.0
+Language_Farsi,0.0
+Language_Gujarati,0.0
+Language_Somali,0.0
+Language_Punjabi,0.0
+Language_Mirpuri,0.0
+Language_Bengali,0.0
+Ethnicity_asian - pakistani,0.0
+Ethnicity_asian - indian,0.0
+Ethnicity_asian - bangladeshi,0.0
+Gender_infrequent_sklearn,0.0
+Gender_female,0.0
+Gender_male,0.0
+missingindicator_CaringResponsibilities,0.0
+missingindicator_LivingAlone,0.0
+Referral_Other,0.0
+Occupation_employed,0.0
+Ethnicity_black - african,0.0
+Ethnicity_black - caribbean,0.0
+Ethnicity_white - british,0.0
+Ethnicity_infrequent_sklearn,0.0
+Ethnicity_black - somalian,0.0
+Ethnicity_other ethnicity - arab,0.0
+Occupation_infrequent_sklearn,0.0
+Occupation_unemployed,0.0
+Occupation_teacher,0.0
+Occupation_student,0.0
+Occupation_homemaker,0.0
+Occupation_retired,0.0
+Occupation_carer,0.0
+HeardAboutSaheli_missing,0.0
+HeardAboutSaheli_workwell,0.0
+HeardAboutSaheli_social media,0.0
+HeardAboutSaheli_website,0.0
+HeardAboutSaheli_word of mouth,0.0
+Site_infrequent_sklearn,0.0
+Site_missing,0.0
+Site_handsworth,0.0
+HasHealthConditionOrDisability_yes,0.0

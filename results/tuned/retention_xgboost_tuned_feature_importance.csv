@@ -1,0 +1,86 @@
+Feature,FeatureImportance
+EarlyActiveWeeks30,0.2902516
+EarlySessions30,0.12886198
+Age,0.100000866
+missingindicator_BaselineBMI,0.07505698
+Site_alum rock community centre,0.06486599
+HeardAboutSaheli_word of mouth,0.062249757
+Referral_WeightManagement,0.05685139
+Site_calthorpe wellbeing hub,0.050623856
+BaselineBMI,0.048536774
+Referral_ExerciseMobility,0.043386154
+HasHealthConditionOrDisability_no,0.03172895
+Occupation_homemaker,0.025280314
+BaselineWeightKg,0.0223054
+EarlyUniqueActivityTypes30,0.0
+CaringResponsibilities,0.0
+LivingAlone,0.0
+BaselineConfidenceToJoin,0.0
+BaselineFeelingOptimistic,0.0
+BaselineFeelingUseful,0.0
+BaselineFeelingRelaxed,0.0
+BaselineFeelingConfident,0.0
+Language_Somali,0.0
+Language_Bengali,0.0
+Language_Mirpuri,0.0
+Language_Punjabi,0.0
+Language_Arabic,0.0
+Language_Urdu,0.0
+Language_English,0.0
+BaselineFeelingCheerful,0.0
+PreferredLanguageMissing,0.0
+Referral_HealthyEating,0.0
+Referral_LongTermCondition,0.0
+Language_Farsi,0.0
+Language_Kurdish,0.0
+Language_OtherKnown,0.0
+Language_OtherUnclassified,0.0
+Language_Pashto,0.0
+Referral_Other,0.0
+ReferralReasonMissing,0.0
+missingindicator_LivingAlone,0.0
+missingindicator_Age,0.0
+missingindicator_CaringResponsibilities,0.0
+missingindicator_BaselineWeightKg,0.0
+missingindicator_BaselineConfidenceToJoin,0.0
+missingindicator_BaselineFeelingOptimistic,0.0
+missingindicator_BaselineFeelingUseful,0.0
+missingindicator_BaselineFeelingRelaxed,0.0
+missingindicator_BaselineFeelingConfident,0.0
+Referral_MentalHealth,0.0
+Referral_Isolation,0.0
+Referral_EmploymentTraining,0.0
+Referral_SocialCircumstances,0.0
+Language_Gujarati,0.0
+Ethnicity_asian - bangladeshi,0.0
+Gender_infrequent_sklearn,0.0
+Gender_male,0.0
+Gender_female,0.0
+missingindicator_BaselineFeelingCheerful,0.0
+Ethnicity_asian - indian,0.0
+Ethnicity_asian - pakistani,0.0
+Ethnicity_asian - other asian background,0.0
+Ethnicity_other ethnicity - arab,0.0
+Ethnicity_white - british,0.0
+Occupation_carer,0.0
+Ethnicity_infrequent_sklearn,0.0
+Ethnicity_black - caribbean,0.0
+Ethnicity_black - somalian,0.0
+Ethnicity_mixed - other mixed background,0.0
+Ethnicity_black - african,0.0
+Occupation_unemployed,0.0
+Occupation_retired,0.0
+Occupation_missing,0.0
+Occupation_employed,0.0
+HeardAboutSaheli_social media,0.0
+HeardAboutSaheli_missing,0.0
+Occupation_infrequent_sklearn,0.0
+HeardAboutSaheli_gp,0.0
+HeardAboutSaheli_infrequent_sklearn,0.0
+HeardAboutSaheli_workwell,0.0
+Site_omnia medical practice,0.0
+Site_missing,0.0
+Site_infrequent_sklearn,0.0
+HasHealthConditionOrDisability_missing,0.0
+HasHealthConditionOrDisability_yes,0.0
+HasHealthConditionOrDisability_infrequent_sklearn,0.0

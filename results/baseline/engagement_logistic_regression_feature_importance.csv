@@ -1,0 +1,70 @@
+Feature,AbsoluteCoefficient
+HeardAboutSaheli_missing,1.3568886349713967
+Ethnicity_black - african,1.354595903600402
+Site_infrequent_sklearn,1.0649683085181745
+Site_omnia medical practice,1.0544199489901744
+Occupation_carer,0.8833832184825817
+Occupation_employed,0.8463083623048752
+HeardAboutSaheli_infrequent_sklearn,0.8220943052959355
+HeardAboutSaheli_social media,0.7760314287281499
+HeardAboutSaheli_website,0.745838164712269
+Ethnicity_asian - bangladeshi,0.6782243772908773
+HeardAboutSaheli_word of mouth,0.665264377471222
+Ethnicity_infrequent_sklearn,0.6516556987326027
+HeardAboutSaheli_gp,0.5645677276173415
+HasHealthConditionOrDisability_prefer not to say,0.5391026987390047
+HasHealthConditionOrDisability_yes,0.5388418490726735
+HeardAboutSaheli_workwell,0.520261717479142
+Gender_female,0.4809837200525456
+Gender_infrequent_sklearn,0.4630626659829464
+Ethnicity_asian - indian,0.45340766444371805
+missingindicator_CaringResponsibilities,0.43873188213074304
+Ethnicity_other ethnicity - arab,0.43337744376948734
+Occupation_unemployed,0.4216400713036155
+Site_handsworth,0.34024302219313507
+Occupation_infrequent_sklearn,0.33858106039036556
+Referral_EmploymentTraining,0.3350580029405878
+Language_Mirpuri,0.3142677459390612
+Occupation_retired,0.3051428074385424
+Age,0.298340403476459
+Language_Bengali,0.28326366932165165
+Referral_HealthyEating,0.2806452971368718
+Occupation_teacher,0.27922340444577054
+Ethnicity_asian - pakistani,0.27764648089020494
+Language_Kurdish,0.27628815738066276
+Language_English,0.2598305997590883
+Referral_Isolation,0.2565543031553953
+Language_Gujarati,0.23975975375469336
+Referral_ExerciseMobility,0.2281826845522429
+Language_Somali,0.21856448432141704
+Site_calthorpe wellbeing hub,0.21333900653467108
+Ethnicity_white - british,0.20273332592190169
+Site_alum rock community centre,0.20147377625630022
+Ethnicity_asian - other asian background,0.1945963652390731
+Referral_WeightManagement,0.18362253342621904
+Language_Farsi,0.18132464496316197
+HasHealthConditionOrDisability_no,0.18082015043769442
+Ethnicity_black - somalian,0.17530205199839655
+Language_Arabic,0.16921715138763097
+LivingAlone,0.16568186227930953
+Referral_Other,0.16170982896800512
+Language_Urdu,0.15376757525272622
+Language_Punjabi,0.14583112395944575
+HasHealthConditionOrDisability_missing,0.14440432127747155
+Referral_LongTermCondition,0.13870014450299037
+missingindicator_Age,0.13553229527669503
+Ethnicity_black - caribbean,0.12567684080018546
+Referral_MentalHealth,0.12270960264383945
+Site_missing,0.10017638056372345
+PreferredLanguageMissing,0.09742769288449221
+Occupation_missing,0.09367687700693333
+Referral_SocialCircumstances,0.0864219782459491
+Language_OtherKnown,0.060983919598004754
+Gender_male,0.054076033563481084
+missingindicator_LivingAlone,0.040508788451860754
+Language_OtherUnclassified,0.03265283391208889
+CaringResponsibilities,0.027112153403905142
+Language_Pashto,0.019784572874100164
+Occupation_homemaker,0.011852045700360055
+ReferralReasonMissing,0.007544122838404991
+Occupation_student,0.0025296145149103387

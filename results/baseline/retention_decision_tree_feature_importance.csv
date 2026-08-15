@@ -1,0 +1,86 @@
+Feature,FeatureImportance
+EarlyActiveWeeks30,0.2552156968980061
+Age,0.1316804266593601
+BaselineBMI,0.05050505050505051
+Occupation_homemaker,0.03958030706088421
+BaselineFeelingUseful,0.03399042326377967
+missingindicator_BaselineBMI,0.030641249812272408
+Referral_LongTermCondition,0.030303030303030304
+BaselineFeelingCheerful,0.02653990889285007
+Referral_WeightManagement,0.023781229663582606
+EarlySessions30,0.023767082590612002
+Occupation_missing,0.021126295636099555
+Ethnicity_infrequent_sklearn,0.020714990216340618
+BaselineFeelingConfident,0.01765554706731178
+ReferralReasonMissing,0.017463638947014887
+Language_Urdu,0.01666373937924065
+HeardAboutSaheli_gp,0.01584472172707467
+Referral_MentalHealth,0.015844721727074667
+Referral_Isolation,0.014527640429612276
+Referral_SocialCircumstances,0.012999159109216027
+BaselineConfidenceToJoin,0.01195427666015901
+HasHealthConditionOrDisability_no,0.01183027498816973
+Ethnicity_asian - other asian background,0.011034716917069861
+Language_Bengali,0.010937759716805976
+Gender_female,0.010637686159507796
+Ethnicity_white - british,0.010398098633392751
+Referral_EmploymentTraining,0.010185892538833717
+Occupation_unemployed,0.009902951079421667
+Referral_Other,0.00983013526266121
+Site_omnia medical practice,0.009602861652772526
+HeardAboutSaheli_workwell,0.008912655971479501
+HasHealthConditionOrDisability_infrequent_sklearn,0.008895282373094556
+Language_Mirpuri,0.008563140051029325
+BaselineWeightKg,0.008235866052789606
+missingindicator_Age,0.008005754135785083
+CaringResponsibilities,0.007922360863537333
+BaselineFeelingRelaxed,0.007922360863537333
+Ethnicity_mixed - other mixed background,0.007243301360948426
+BaselineFeelingOptimistic,0.0059417706476530005
+Site_calthorpe wellbeing hub,0.0049514755397108345
+HeardAboutSaheli_infrequent_sklearn,0.004851972203506112
+PreferredLanguageMissing,0.004831406388692293
+Site_missing,0.004411314571742357
+Language_OtherUnclassified,0.0041518254792869795
+LivingAlone,0.0
+EarlyUniqueActivityTypes30,0.0
+Language_Somali,0.0
+Language_Punjabi,0.0
+Language_English,0.0
+Language_Arabic,0.0
+Referral_HealthyEating,0.0
+Language_OtherKnown,0.0
+Referral_ExerciseMobility,0.0
+Language_Kurdish,0.0
+Ethnicity_asian - bangladeshi,0.0
+Gender_infrequent_sklearn,0.0
+Gender_male,0.0
+missingindicator_BaselineFeelingCheerful,0.0
+missingindicator_BaselineFeelingRelaxed,0.0
+missingindicator_BaselineFeelingConfident,0.0
+missingindicator_BaselineFeelingUseful,0.0
+missingindicator_BaselineFeelingOptimistic,0.0
+missingindicator_LivingAlone,0.0
+missingindicator_BaselineConfidenceToJoin,0.0
+missingindicator_BaselineWeightKg,0.0
+missingindicator_CaringResponsibilities,0.0
+Language_Gujarati,0.0
+Language_Pashto,0.0
+Language_Farsi,0.0
+Ethnicity_asian - pakistani,0.0
+Occupation_retired,0.0
+Occupation_employed,0.0
+Occupation_carer,0.0
+Ethnicity_asian - indian,0.0
+Ethnicity_black - african,0.0
+Ethnicity_black - caribbean,0.0
+Ethnicity_black - somalian,0.0
+Ethnicity_other ethnicity - arab,0.0
+Site_alum rock community centre,0.0
+HeardAboutSaheli_word of mouth,0.0
+HeardAboutSaheli_missing,0.0
+HeardAboutSaheli_social media,0.0
+Occupation_infrequent_sklearn,0.0
+Site_infrequent_sklearn,0.0
+HasHealthConditionOrDisability_missing,0.0
+HasHealthConditionOrDisability_yes,0.0

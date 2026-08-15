@@ -1,0 +1,70 @@
+Feature,FeatureImportance
+HeardAboutSaheli_word of mouth,0.028773814
+HasHealthConditionOrDisability_missing,0.025783304
+Referral_EmploymentTraining,0.024223536
+HeardAboutSaheli_gp,0.024057385
+Referral_Isolation,0.022312274
+Occupation_missing,0.021358527
+Language_English,0.021249345
+Referral_LongTermCondition,0.019698134
+Language_Arabic,0.019608242
+HeardAboutSaheli_website,0.01941411
+Ethnicity_other ethnicity - arab,0.019399738
+Referral_HealthyEating,0.019306459
+Gender_male,0.01903159
+Site_omnia medical practice,0.018859616
+Ethnicity_black - somalian,0.01780664
+missingindicator_LivingAlone,0.017625516
+PreferredLanguageMissing,0.017494751
+Language_OtherUnclassified,0.017067365
+Ethnicity_asian - other asian background,0.017040567
+HasHealthConditionOrDisability_prefer not to say,0.016755935
+Ethnicity_black - african,0.016659407
+Age,0.016459087
+HeardAboutSaheli_workwell,0.016342292
+HasHealthConditionOrDisability_no,0.016116844
+missingindicator_Age,0.016007597
+Ethnicity_infrequent_sklearn,0.015557748
+Ethnicity_black - caribbean,0.015521252
+HasHealthConditionOrDisability_yes,0.015433613
+Site_calthorpe wellbeing hub,0.015324134
+Occupation_infrequent_sklearn,0.015117064
+Referral_WeightManagement,0.015048457
+Language_Somali,0.014825461
+HeardAboutSaheli_infrequent_sklearn,0.014758102
+Site_handsworth,0.014732772
+Referral_ExerciseMobility,0.014706498
+ReferralReasonMissing,0.014609332
+Ethnicity_asian - bangladeshi,0.014545438
+Occupation_student,0.014447413
+Occupation_unemployed,0.014416508
+LivingAlone,0.014202467
+Referral_Other,0.014035951
+Site_alum rock community centre,0.014027087
+Ethnicity_asian - indian,0.013638211
+Referral_MentalHealth,0.013601815
+Ethnicity_white - british,0.0134084625
+Language_OtherKnown,0.013172541
+Language_Mirpuri,0.013164634
+Occupation_homemaker,0.0131015945
+Occupation_retired,0.013037059
+CaringResponsibilities,0.012787375
+Language_Punjabi,0.012471948
+Site_missing,0.012292693
+Language_Urdu,0.012126807
+Occupation_carer,0.012065666
+Referral_SocialCircumstances,0.01203243
+Gender_female,0.01164819
+Ethnicity_asian - pakistani,0.01162609
+Site_infrequent_sklearn,0.010956943
+Language_Bengali,0.010733574
+HeardAboutSaheli_missing,0.010572393
+Occupation_employed,0.010385235
+HeardAboutSaheli_social media,0.009805473
+missingindicator_CaringResponsibilities,0.009238953
+Occupation_teacher,0.008370513
+Gender_infrequent_sklearn,0.0
+Language_Farsi,0.0
+Language_Gujarati,0.0
+Language_Pashto,0.0
+Language_Kurdish,0.0

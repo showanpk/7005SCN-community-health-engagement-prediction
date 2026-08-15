@@ -1,0 +1,70 @@
+Feature,FeatureImportance
+Age,0.17226318967129853
+Occupation_missing,0.05821317696946878
+HasHealthConditionOrDisability_missing,0.041734357415556395
+Referral_HealthyEating,0.03975943137350429
+Language_English,0.035563376757237704
+HeardAboutSaheli_gp,0.03484175535197923
+Language_Urdu,0.03442740699536841
+Site_calthorpe wellbeing hub,0.028996036439367795
+Site_omnia medical practice,0.026877186780422162
+Referral_EmploymentTraining,0.025321226711005618
+Ethnicity_white - british,0.023872753900762683
+CaringResponsibilities,0.02181316646954235
+Ethnicity_asian - indian,0.02106629334202812
+Occupation_infrequent_sklearn,0.020533925562114738
+ReferralReasonMissing,0.01946401735518117
+Language_Arabic,0.019309092706949124
+HeardAboutSaheli_word of mouth,0.017609931148046962
+Ethnicity_asian - other asian background,0.01696385636225291
+Referral_LongTermCondition,0.016315476100713894
+Referral_ExerciseMobility,0.015589191356562978
+Ethnicity_asian - bangladeshi,0.015310965289186951
+Occupation_homemaker,0.014880805036816644
+Referral_Isolation,0.014732421399635567
+Ethnicity_infrequent_sklearn,0.014659368555320252
+HeardAboutSaheli_infrequent_sklearn,0.01438978255579811
+HasHealthConditionOrDisability_no,0.01434181878635976
+PreferredLanguageMissing,0.014292082637381865
+Referral_MentalHealth,0.013902978518472506
+HasHealthConditionOrDisability_yes,0.013756268198490533
+Ethnicity_black - caribbean,0.013205049860712694
+Referral_WeightManagement,0.013084006734063248
+Site_alum rock community centre,0.01278852054476748
+Ethnicity_black - african,0.01131597619109556
+Gender_male,0.011139296323535866
+HasHealthConditionOrDisability_prefer not to say,0.010943045150960595
+LivingAlone,0.009267238526027458
+Occupation_employed,0.008768084173607523
+Referral_SocialCircumstances,0.008671663450248637
+Ethnicity_asian - pakistani,0.008441808331442759
+Language_Mirpuri,0.008290753787159329
+Occupation_student,0.007268486106567329
+Occupation_unemployed,0.006999922513591117
+Site_handsworth,0.006367903321276233
+Occupation_retired,0.005647069661310233
+Occupation_teacher,0.004491179425178386
+Language_OtherUnclassified,0.004317182305999621
+HeardAboutSaheli_workwell,0.003970924175251311
+Language_Somali,0.0036244583203681735
+missingindicator_CaringResponsibilities,0.0028439396099229452
+Referral_Other,0.0025337675396501394
+Ethnicity_other ethnicity - arab,0.002401650898236403
+Site_infrequent_sklearn,0.0018917895214884536
+Language_OtherKnown,0.0018380098899061189
+Site_missing,0.0017349728760567903
+Ethnicity_black - somalian,0.0017004615508265446
+Gender_infrequent_sklearn,0.0015313317536667192
+Language_Pashto,0.00151621562769799
+Occupation_carer,0.0013109301140589134
+HeardAboutSaheli_website,0.0012930219684992958
+Language_Punjabi,1.330866717216192e-17
+Language_Bengali,0.0
+Gender_female,0.0
+missingindicator_LivingAlone,0.0
+missingindicator_Age,0.0
+Language_Kurdish,0.0
+Language_Farsi,0.0
+Language_Gujarati,0.0
+HeardAboutSaheli_social media,0.0
+HeardAboutSaheli_missing,0.0

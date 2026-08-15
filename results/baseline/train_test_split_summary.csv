@@ -1,0 +1,7 @@
+Dataset,Split,Rows,Class0,Class1
+engagement,Full,1355,1189,166
+engagement,Train,1084,951,133
+engagement,Test,271,238,33
+retention,Full,425,191,234
+retention,Train,340,153,187
+retention,Test,85,38,47

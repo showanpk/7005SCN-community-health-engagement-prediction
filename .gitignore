@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets / configuration
+.env
+.env.*
+*.key
+*.pem
+appsettings*.json
+secrets.json
+
+# Research participant-level data - DO NOT COMMIT
+data/
+raw_data/
+model_ready/
+model_ready_corrected/
+model_ready_final/
+MSc_Engagement30*.csv
+MSc_Retention90*.csv
+*.xlsx
+*.xls
+*.bak
+*.bacpac
+*.mdf
+*.ldf
+
+# Local archives
+*.zip
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
